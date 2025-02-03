@@ -7,7 +7,7 @@ Bem-vindo (a) ao meu repositório de projetos de Machine Learning! Este espaço 
 ## 📚 Objetivo
 
 O objetivo deste repositório é:
-- Consolidar todo o conhecimento adquirido em **Machine Learning** através de exercícios, implementações e desafios práticos.
+- Consolidar todo o conhecimento adquirido em **Machine Learning** através de aulas, exercícios, implementações e desafios práticos.
 - Compartilhar soluções para projetos variados, desde implementações simples até aplicações mais complexas.
 - Demonstrar o progresso contínuo nos estudos e nos projetos relacionados a **modelos preditivos**, **aprendizado supervisionado**, **aprendizado não supervisionado**, **redes neurais** e outras técnicas avançadas.
 
