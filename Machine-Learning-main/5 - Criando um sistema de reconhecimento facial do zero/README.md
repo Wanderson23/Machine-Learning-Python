@@ -1,6 +1,6 @@
 # Detecção de Faces com YOLOv8
 
-Este projeto demonstra o processo de detecção de objetos em imagens utilizando o modelo YOLOv8. O código inclui desde a instalação e importação das bibliotecas necessárias, passando pelo download e preparação do dataset, treinamento do modelo, até a realização da detecção em uma imagem específica e exibição dos resultados.
+Este projeto demonstra o processo de detecção e reconhecimento de faces em imagens utilizando o modelo YOLOv8. O código inclui desde a instalação e importação das bibliotecas necessárias, passando pelo download e preparação do dataset, treinamento do modelo, até a realização da detecção em uma imagem específica e exibição dos resultados.
 
 ---
 
