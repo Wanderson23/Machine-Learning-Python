@@ -1,10 +1,9 @@
 # 🤖 DataBot - Assistente de IA
 
-DataBot é um assistente de IA interativo que permite carregar documentos de diferentes fontes (sites, PDFs e vídeos do YouTube) e fazer perguntas baseadas no conteúdo carregado. Ele utiliza técnicas avançadas de **Processamento de Linguagem Natural (NLP)** para fornecer respostas precisas e contextuais.
+DataBot é um assistente de IA interativo que permite carregar documentos de diferentes fontes (sites, PDFs e vídeos do YouTube) e fazer perguntas baseadas no conteúdo carregado. Ele utiliza técnicas avançadas de **NLP (Processamento de Linguagem Natural)** e **RAG (Retrieval-Augmented Generation)** para fornecer respostas precisas e contextuais.
 
 ## 🚀 Tecnologias Utilizadas
 
-- **[Gradio](https://www.gradio.app/)** - Framework para criar interfaces interativas de IA.
 - **[LangChain](https://www.langchain.com/)** - Framework para estruturar fluxos de dados e IA.
   - **WebBaseLoader** - Carregamento de conteúdo de sites.
   - **YoutubeLoader** - Extração de transcrições de vídeos do YouTube.
@@ -12,6 +11,7 @@ DataBot é um assistente de IA interativo que permite carregar documentos de dif
 - **[FAISS](https://faiss.ai/)** - Ferramenta de busca vetorial para encontrar informações relevantes nos documentos.
 - **[Sentence Transformers](https://huggingface.co/sentence-transformers)** - Modelo `all-MiniLM-L6-v2` para transformar texto em vetores numéricos.
 - **[Groq API](https://groq.com/)** - Utilização do modelo **Llama 3.3-70b** para geração de respostas.
+- **[Gradio](https://www.gradio.app/)** - Framework para criar interfaces interativas de IA.
 
 ## 🛠️ Como Executar o Projeto
 
@@ -66,8 +66,8 @@ python seu_arquivo.py
 
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
----
 
-Feito com ❤️ por [Seu Nome]
+
+
 
   
