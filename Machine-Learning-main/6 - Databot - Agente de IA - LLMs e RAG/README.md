@@ -2,7 +2,7 @@
 
 DataBot é um assistente de IA interativo que permite carregar documentos de diferentes fontes (sites, PDFs e vídeos do YouTube) e fazer perguntas baseadas no conteúdo carregado. Ele utiliza técnicas avançadas de **Processamento de Linguagem Natural (NLP)** para fornecer respostas precisas e contextuais.
 
-![Original](imagens/Databot.jpg)
+![Original](imagens/databot2.PNG)
 
 ## 🚀 Tecnologias Utilizadas
 
